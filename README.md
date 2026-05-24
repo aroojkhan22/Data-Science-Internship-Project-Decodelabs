@@ -1,4 +1,5 @@
 📊 Data Science Internship Project – Decodelabs
+
 🧠 Overview
 
 This repository contains the work completed during my Data Science Internship at Decodslab. The project focuses on the end-to-end data science pipeline including data cleaning, preprocessing, exploratory data analysis (EDA), visualization, and building machine learning models.
@@ -30,6 +31,8 @@ Visualized relationships between features
 Trained basic ML models (e.g., classification/regression)
 Evaluated models using accuracy, precision, recall, etc.
 Compared model performance
+
+
 🧰 Technologies Used
 Python 🐍
 Pandas & NumPy
@@ -41,6 +44,8 @@ Real-world data handling and preprocessing
 Importance of EDA before modeling
 Feature engineering impact on model performance
 Basic machine learning workflow
+
+
 📌 Conclusion
 
 This internship project helped me strengthen my practical skills in data science, from raw data handling to building and evaluating machine learning models.
