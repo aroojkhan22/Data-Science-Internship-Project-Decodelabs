@@ -10,7 +10,9 @@ Perform data cleaning and preprocessing
 Conduct exploratory data analysis (EDA)
 Visualize insights using graphs and charts
 Build and evaluate machine learning models
+
 🛠️ Tasks Completed
+
 1. 📂 Data Cleaning
 Handled missing values
 Removed duplicates and irrelevant data
@@ -34,6 +36,7 @@ Compared model performance
 
 
 🧰 Technologies Used
+
 Python 🐍
 Pandas & NumPy
 Matplotlib & Seaborn
